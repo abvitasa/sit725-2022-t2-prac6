@@ -1,4 +1,4 @@
-# sit725-2022-t2-prac4
+# sit725-2022-t2-prac6
 
 This repository is for SIT725 Prac-6: [Link](https://github.com/abvitasa/sit725-2022-t2-prac6)
 
