@@ -13,7 +13,21 @@ npm install
 npm run start
 ```
 
+Run the program with live reload
+
+```
+npm run start:dev
+```
+
+Perform program testing (run the program first before testing)
+
+```
+npm run test
+```
+
 ## Content
+
+---
 
 <img src="public/images/readme/1.png">
 
@@ -22,12 +36,6 @@ npm run start
 <img src="public/images/readme/2.png">
 
 ---
-
-## <img src="public/images/readme/3.png">
-
----
-
-<img src="public/images/readme/4.png">
 
 ## Progress
 
